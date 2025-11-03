@@ -1,18 +1,30 @@
-## Getting Started
+Fitness Tracking Application
+Overview
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This project was built by a team of four using Java. Our goal was to create a simple yet effective fitness tracking application that helps users stay on top of their health and daily activity.
 
-## Folder Structure
+What We Did
 
-The workspace contains two folders by default, where:
+Designed and developed the app to monitor user activity and progress
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Integrated real-time data processing to track steps, workouts, hydration, and calories
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Focused on building an easy-to-use interface with responsive feedback for users
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Key Features
 
-## Dependency Management
+Step and exercise tracking
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Hydration and calorie monitoring
+
+Real-time updates and progress visualization
+
+Tech Stack
+
+Language: Java
+
+Focus Areas: Real-time data processing, activity monitoring, UI/UX design
+
+Outcome
+
+We successfully built a functional prototype that gives users a clear overview of their fitness habits and motivates them to stay consistent.
